@@ -4,7 +4,7 @@ Merges active substances with pesticide names from EU database (the API is shit)
 Result with one-shot PubChemAPI:
 
 Result:
-- 495/679 substances have SMILES.
+- 495/679 substances have SMILES (according to one-shot PubChem calls - should be more in the end)
 - Missing SMILES (184): many of them should be obtainable using more advanced tools (see my mail) than "only" PubChemPy
 
 
