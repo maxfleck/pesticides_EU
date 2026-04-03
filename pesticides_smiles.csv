@@ -1,0 +1,680 @@
+name,xml_name,cas,smiles
+"1,1-dichloro-2,2-bis(4-ethylphenyl)ethane","1,1-dichloro-2,2-bis(4-ethylphenyl)ethane  (F)",,CCC1=CC=C(C=C1)C(C2=CC=C(C=C2)CC)C(Cl)Cl
+"1,2-Dibromoethane","1,2-dibromoethane (ethylene dibromide) (F)",106-93-4,C(CBr)Br
+"1,2-Dichloroethane","1,2-dichloroethane (ethylene dichloride) (F)",107-06-2,C(CCl)Cl
+"1,3-Dichloropropene","1,3-Dichloropropene",542-75-6,C(C=CCl)Cl
+"1,4-Diaminobutane","1,4-Diaminobutane  (aka Putrescine) (++)",,C(CCN)CN
+"1,4-Dimethylnaphthalene","1,4-dimethylnaphthalene (R)(F)",571-58-4,CC1=CC=C(C2=CC=CC=C12)C
+1-Decanol,1-Decanol,112-30-1,CCCCCCCCCCO
+1-Naphthylacetamide and 1-naphthylacetic acid,"1-Naphthylacetamide and 1-naphthylacetic acid (sum of 1-naphthylacetamide and 1-naphthylacetic acid and its salts, expressed as 1-naphythlacetic acid)",,
+1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide,1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide (PAM),,CN1C=C(C(=N1)C(F)(F)F)C(=O)N
+1-methylcyclopropene,1-methylcyclopropene,3100-04-7,CC1=CC1
+"2,4,5-T","2,4,5-T (sum of 2,4,5-T, its salts and esters, expressed as 2,4,5-T) (F)",93-76-5,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O
+"2,4-D","2,4-D (sum of 2,4-D, its salts, its esters and its conjugates, expressed as 2,4-D)",94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+"2,4-DB","2,4-DB (sum of 2,4-DB, its salts, its esters and its conjugates, expressed as 2,4-DB) (R)",94-82-6,C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O
+"2,5-Dichlorobenzoic acid methylester","2,5-dichlorobenzoic acid methylester (sum of 2,5-dichlorobenzoic acid and its ester expressed as 2,5-dichlorobenzoic acid methylester)",2905-69-3,COC(=O)C1=C(C=CC(=C1)Cl)Cl
+"2-amino-4-methoxy-6-(trifluormethyl)-1,3,5-triazine (AMTT), resulting from the use of tritosulfuron","2-amino-4-methoxy-6-(trifluormethyl)-1,3,5-triazine (AMTT), resulting from the use of tritosulfuron  (F)",,
+2-naphthyloxyacetic acid,2-naphthyloxyacetic acid,,C1=CC=C2C=C(C=CC2=C1)OCC(=O)O
+2-phenylphenol,"2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol) (R)(F)",,C1=CC=C(C=C1)C2=CC=CC=C2O
+24-Epibrassinolide,24-epibrassinolide,78821-43-9,C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2COC(=O)[C@@H]4[C@@]3(C[C@H]([C@H](C4)O)O)C)C)[C@H]([C@@H]([C@H](C)C(C)C)O)O
+3-decen-2-one,3-decen-2-one,,CCCCCC/C=C/C(=O)C
+6-Benzyladenine,6-Benzyladenine,1214-39-7,C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3
+8-hydroxyquinoline,"8-hydroxyquinoline (sum of 8-hydroxyquinoline and its salts, expressed as 8-hydroxyquinoline)",,C1=CC2=C(C(=C1)O)N=CC=C2
+ABE-IT 56,ABE-IT 56,No CAS allocated,
+Abamectin,"Abamectin (sum of avermectin B1a, avermectin B1b and delta-8,9 isomer of avermectin B1a, expressed as avermectin B1a) (R)(F)",,CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C.C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O
+Acephate,Acephate,30560-19-1,CC(=O)NP(=O)(OC)SC
+Acequinocyl,Acequinocyl (F),57960-19-7,CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C
+Acetamiprid,Acetamiprid  (R),135410-20-7,CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl
+Acetic acid,Acetic acid,64-19-7,CC(=O)O
+Acetochlor,Acetochlor,34256-82-1,CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C
+"Acibenzolar-S-methyl (sum of acibenzolar-S-methyl and acibenzolar acid (free and conjugated), expressed as acibenzolar-S-methyl)","Acibenzolar-S-methyl (sum of acibenzolar-S-methyl and acibenzolar acid (free and conjugated), expressed as acibenzolar-S-methyl)",,
+Aclonifen,Aclonifen,74070-46-5,C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl
+Acrinathrin,Acrinathrin  (F),101007-06-1,CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C\C(=O)OC(C(F)(F)F)C(F)(F)F)C
+Adoxophyes orana GV strain BV-0001,Adoxophyes orana GV strain BV-0001,No CAS allocated,
+Akanthomyces muscarius Ve6 (formerly Lecanicillium muscarium strain Ve6),Akanthomyces muscarius Ve6 (formerly Lecanicillium muscarium strain Ve6),No CAS allocated,
+Alachlor,Alachlor,15972-60-8,CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl
+Aldicarb,"Aldicarb (sum of aldicarb, its sulfoxide and its sulfone, expressed as aldicarb)",116-06-3,CC(C)(/C=N/OC(=O)NC)SC
+Aldrin and Dieldrin,Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin) (F),,
+Allium cepa L. bulb extract,Allium cepa L. bulb extract,No CAS allocated,
+Aluminium silicate,Aluminium silicate  (aka kaolin) (++)(+),,
+Ametoctradin,Ametoctradin (R)(F),865318-97-4,CCCCCCCCC1=C(N2C(=NC=N2)N=C1CC)N
+Amidosulfuron,Amidosulfuron  (R)(A),120923-37-7,CN(S(=O)(=O)C)S(=O)(=O)NC(=O)NC1=NC(=CC(=N1)OC)OC
+Aminopyralid,"Aminopyralid (sum of aminopyralid, its salts and its conjugates, expressed as aminopyralid) (R)",150114-71-9,C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N
+Amisulbrom,Amisulbrom,348635-87-0,CC1=C(C2=C(N1S(=O)(=O)C3=NN(C=N3)S(=O)(=O)N(C)C)C=C(C=C2)F)Br
+Amitraz,"Amitraz (amitraz including the metabolites containing the 2,4 -dimethylaniline moiety expressed as amitraz)",33089-61-1,CC1=CC(=C(C=C1)N=CN(C)C=NC2=C(C=C(C=C2)C)C)C
+Amitrole,Amitrole,,C1=NNC(=N1)N
+Ammonium Acetate,Ammonium acetate  (++),631-61-8,CC(=O)[O-].[NH4+]
+Ampelomyces quisqualis strain AQ10,Ampelomyces quisqualis strain AQ10,No CAS allocated,
+Anilazine,Anilazine,101-05-3,C1=CC=C(C(=C1)NC2=NC(=NC(=N2)Cl)Cl)Cl
+Anthraquinone,Anthraquinone  (F),84-65-1,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O
+Aqueous extract from the germinated seeds of sweet Lupinus albus,Aqueous extract from the germinated seeds of sweet Lupinus albus,No CAS allocated,
+Aramite,Aramite  (F),140-57-8,CC(COC1=CC=C(C=C1)C(C)(C)C)OS(=O)OCCCl
+Asulam,Asulam,3337-71-1,COC(=O)NS(=O)(=O)C1=CC=C(C=C1)N
+Atrazine,Atrazine  (F),1912-24-9,CCNC1=NC(=NC(=N1)Cl)NC(C)C
+Aureobasidium pullulans strains DSM 14940 and DSM 14941,Aureobasidium pullulans strains DSM 14940 and DSM 14941,,
+Azadirachtin,Azadirachtin,,C/C=C(\C)/C(=O)O[C@H]1C[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]14CO[C@@]([C@H]4[C@]([C@@H]3O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C
+Azimsulfuron,Azimsulfuron,120162-55-2,CN1C(=C(C=N1)C2=NN(N=N2)C)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC
+Azinphos-ethyl,Azinphos-ethyl  (F),,CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1
+Azinphos-methyl,Azinphos-methyl  (F),86-50-0,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1
+Azocyclotin and Cyhexatin,Azocyclotin and Cyhexatin (sum of azocyclotin and cyhexatin expressed as cyhexatin),,
+Azoxystrobin,Azoxystrobin,131860-33-8,CO/C=C(\C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)/C(=O)OC
+Bacillus amyloliquefaciens (formerly subtilis) str. QST 713,Bacillus amyloliquefaciens (formerly subtilis) str. QST 713,No CAS allocated,
+Bacillus amyloliquefaciens AH2,Bacillus amyloliquefaciens AH2,No CAS allocated,
+Bacillus amyloliquefaciens strain FZB24,Bacillus amyloliquefaciens strain FZB24,No CAS allocated,
+Bacillus amyloliquefaciens strain IT-45,Bacillus amyloliquefaciens strain IT-45,,
+Bacillus amyloliquefaciens strain MBI 600,Bacillus amyloliquefaciens strain MBI 600,No CAS allocated,
+Bacillus amyloliquefaciens subsp. plantarum strain D747,Bacillus amyloliquefaciens subsp. plantarum strain D747,,
+Bacillus firmus I-1582,Bacillus firmus I-1582,,
+Bacillus pumilus QST 2808,Bacillus pumilus QST 2808,,
+Bacillus subtilis strain IAB/BS03,Bacillus subtilis strain IAB/BS03,No CAS allocated,
+Barban,Barban  (F),101-27-9,C1=CC(=CC(=C1)Cl)NC(=O)OCC#CCCl
+Beauveria bassiana PPRI 5339,Beauveria bassiana PPRI 5339,,
+Beauveria bassiana strain ATCC 74040,Beauveria bassiana strain ATCC 74040,No CAS allocated,
+Beauveria bassiana strain GHA,Beauveria bassiana strain GHA,No CAS allocated,
+Beer,Beer,No CAS allocated,
+Beflubutamid,Beflubutamid,113614-08-7,CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F
+Benalaxyl including other mixtures of constituent isomers including benalaxyl-M,Benalaxyl including other mixtures of constituent isomers including benalaxyl-M (sum of isomers),,
+Benfluralin,Benfluralin  (F),1861-40-1,CCCCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Bensulfuron-methyl,Bensulfuron-methyl,,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC
+"Bentazone (Sum of bentazone, its salts and 6-hydroxy (free and conjugated) and 8-hydroxy bentazone (free and conjugated), expressed as bentazone)","Bentazone (Sum of bentazone, its salts and 6-hydroxy (free and conjugated) and 8-hydroxy bentazone (free and conjugated), expressed as bentazone) (R)",,
+"Benthiavalicarb (Benthiavalicarb-isopropyl(KIF-230 R-L) and its enantiomer (KIF-230 S-D) and its diastereomers(KIF-230 S-L and KIF-230 R-D), expressed as benthiavalicarb-isopropyl)","Benthiavalicarb (Benthiavalicarb-isopropyl(KIF-230 R-L) and its enantiomer (KIF-230 S-D) and its diastereomers(KIF-230 S-L and KIF-230 R-D), expressed as benthiavalicarb-isopropyl) (A)",,
+Benzalkonium chloride,"Benzalkonium chloride (mixture of alkylbenzyldimethylammonium chlorides with alkyl chain lengths of C8, C10, C12, C14, C16 and C18)",8001-54-5,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-]
+Benzoic acid,Benzoic acid  (+),65-85-0,C1=CC=C(C=C1)C(=O)O
+Benzovindiflupyr,Benzovindiflupyr,1072957-71-1,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC3=C2[C@@H]4CC[C@H]3C4=C(Cl)Cl
+Betabaculovirus phoperculellae,Betabaculovirus phoperculellae,No CAS allocated,
+"Bicyclopyrone (sum of bicyclopyrone and its structurally related metabolites determined as the sum of the common moieties 2-(2- methoxyethoxymethyl)-6-(trifluoromethyl) pyridine-3-carboxylic acid (SYN503780) and (2-(2-hydroxyethoxymethyl)-6- (trifluoromethyl)pyridine-3-carboxylic acid (CSCD686480), expressed as bicyclopyrone)","Bicyclopyrone (sum of bicyclopyrone and its structurally related metabolites determined as the sum of the common moieties 2-(2- methoxyethoxymethyl)-6-(trifluoromethyl) pyridine-3-carboxylic acid (SYN503780) and (2-(2-hydroxyethoxymethyl)-6- (trifluoromethyl)pyridine-3-carboxylic acid (CSCD686480), expressed as bicyclopyrone)",,
+Bifenazate,Bifenazate (sum of bifenazate plus bifenazate-diazene expressed as bifenazate) (F),149877-41-8,CC(C)OC(=O)NNC1=C(C=CC(=C1)C2=CC=CC=C2)OC
+Bifenox,Bifenox  (F),42576-02-3,COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]
+Bifenthrin,Bifenthrin (sum of isomers) (F),82657-04-3,CC1=C(C=CC=C1C2=CC=CC=C2)COC(=O)[C@@H]3[C@@H](C3(C)C)/C=C(/C(F)(F)F)\Cl
+Biphenyl,Biphenyl,92-52-4,C1=CC=C(C=C1)C2=CC=CC=C2
+Bispyribac,"Bispyribac (sum of bispyribac, its salts and its esters, expressed as bispyribac)",125401-75-4,COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)O)OC
+Bitertanol,Bitertanol (sum of isomers) (F),55179-31-2,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)C3=CC=CC=C3)O
+Bixafen,Bixafen (R)(F),581809-46-3,CN1C=C(C(=N1)C(F)F)C(=O)NC2=C(C=C(C=C2)F)C3=CC(=C(C=C3)Cl)Cl
+Bone Oil,Bone oil,No CAS allocated,
+Boscalid,Boscalid  (R)(F),,C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl
+Bromadiolone,Bromadiolone,28772-56-7,C1=CC=C(C=C1)C(CC(C2=CC=C(C=C2)C3=CC=C(C=C3)Br)O)C4=C(C5=CC=CC=C5OC4=O)O
+Bromide ion,Bromide ion,,[Br-]
+Bromophos-ethyl,Bromophos-ethyl  (F),4824-78-6,CCOP(=S)(OCC)OC1=CC(=C(C=C1Cl)Br)Cl
+Bromopropylate,Bromopropylate  (F),18181-80-1,CC(C)OC(=O)C(C1=CC=C(C=C1)Br)(C2=CC=C(C=C2)Br)O
+"Bromoxynil and its salts, expressed as bromoxynil","Bromoxynil and its salts, expressed as bromoxynil",,
+Bromuconazole,Bromuconazole (sum of diasteroisomers) (F),116255-48-2,C1C(COC1(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl)Br
+Bupirimate,Bupirimate (R)(F)(A),41483-43-6,CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
+Buprofezin,Buprofezin  (F),69327-76-0,CC(C)N1C(=NC(C)(C)C)SCN(C1=O)C2=CC=CC=C2
+Butralin,Butralin,33629-47-9,CCC(C)NC1=C(C=C(C=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-]
+Butylate,Butylate,2008-41-5,CCSC(=O)N(CC(C)C)CC(C)C
+COS-OGA,COS-OGA,No CAS allocated,
+Cadusafos,Cadusafos,,CCC(C)SP(=O)(OCC)SC(C)CC
+Calcium carbide,Calcium carbide,75-20-7,
+Calcium carbonate,Calcium carbonate,471-34-1,C(=O)([O-])[O-].[Ca+2]
+Calcium hydroxide,Calcium hydroxide,1305-62-0,[OH-].[OH-].[Ca+2]
+Camphechlor,Camphechlor (Toxaphene) (R)(F),8001-35-2,C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
+Candida oleophila strain O,Candida oleophila strain O,No CAS allocated,
+Capric acid,Capric acid,,CCCCCCCCCC(=O)O
+Captafol,Captafol  (F),2425-06-1,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl
+Captan,"Captan (Sum of captan and THPI, expressed as captan) (R)",133-06-02,C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl
+Carbaryl,Carbaryl  (F),63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21
+Carbendazim and benomyl,Carbendazim and benomyl (sum of benomyl and carbendazim expressed as carbendazim) (R),,
+Carbetamide,Carbetamide (sum of carbetamide and its S isomer),16118-49-3,CCNC(=O)[C@@H](C)OC(=O)NC1=CC=CC=C1
+"Carbofuran (sum of carbofuran (including any carbofuran generated from carbosulfan, benfuracarb or furathiocarb) and 3-OH carbofuran expressed as carbofuran)","Carbofuran (sum of carbofuran (including any carbofuran generated from carbosulfan, benfuracarb or furathiocarb) and 3-OH carbofuran expressed as carbofuran) (R)",,
+Carbon dioxide,Carbon dioxide,,C(=O)=O
+Carbon monoxide,Carbon monoxide,630-08-0,[C-]#[O+]
+Carbon tetrachloride,Carbon tetrachloride,56-23-5,C(Cl)(Cl)(Cl)Cl
+"Carboxin (carboxin plus its metabolites carboxin sulfoxide and oxycarboxin (carboxin sulfone), expressed as carboxin)","Carboxin (carboxin plus its metabolites carboxin sulfoxide and oxycarboxin (carboxin sulfone), expressed as carboxin)",,
+Carfentrazone-ethyl,"Carfentrazone-ethyl (sum of carfentrazone-ethyl and carfentrazone, expressed as carfentrazone-ethyl) (R)",128639-02-1,CCOC(=O)C(CC1=CC(=C(C=C1Cl)F)N2C(=O)N(C(=N2)C)C(F)F)Cl
+Cartap,Cartap,15263-53-3,CN(C)C(CSC(=O)N)CSC(=O)N
+Carvone,Carvone,244-16-8,CC1=CCC(CC1=O)C(=C)C
+Cerevisane,Cerevisane,No CAS allocated,
+Chitosan,Chitosan,9012-76-4,
+Chitosan hydrochloride,Chitosan hydrochloride,9012-76-4,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)N)O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)N)O)CO)CO)N)O)O)O.N.Cl
+Chlorantraniliprole,Chlorantraniliprole (F),500008-45-7,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl
+Chlorate,Chlorate  (A),,[O-]Cl(=O)=O
+Chlorbenside,Chlorbenside  (F),103-17-3,C1=CC(=CC=C1CSC2=CC=C(C=C2)Cl)Cl
+Chlorbufam,Chlorbufam  (F),1967-16-4,CC(C#C)OC(=O)NC1=CC(=CC=C1)Cl
+Chlordane,Chlordane (sum of cis- and trans-chlordane) (R)(F),12789-03-6,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+Chlordecone,Chlordecone  (F),143-50-0,C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl
+Chlorfenapyr,Chlorfenapyr,122453-73-0,CCOCN1C(=C(C(=C1C(F)(F)F)Br)C#N)C2=CC=C(C=C2)Cl
+Chlorfenson,Chlorfenson  (F),,C1=CC(=CC=C1OS(=O)(=O)C2=CC=C(C=C2)Cl)Cl
+Chlorfenvinphos,Chlorfenvinphos  (F),470-90-6,CCOP(=O)(OCC)OC(=CCl)C1=C(C=C(C=C1)Cl)Cl
+Chloridazon,"Chloridazon (sum of chloridazon and chloridazon-desphenyl, expressed as chloridazon) (R)",,C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)N)Cl
+Chlormequat,"Chlormequat (sum of chlormequat and its salts, expressed as chlormequat-chloride)",7003-89-6,C[N+](C)(C)CCCl
+Chlorobenzilate,Chlorobenzilate  (F),510-15-6,CCOC(=O)C(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O
+Chloropicrin,Chloropicrin,76-06-2,C([N+](=O)[O-])(Cl)(Cl)Cl
+Chlorothalonil,Chlorothalonil  (R),1897-45-6,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl
+Chlorotoluron,Chlorotoluron,15545-48-9,CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl
+Chloroxuron,Chloroxuron  (F),1982-47-4,CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)Cl
+Chlorpropham,Chlorpropham (R),101-21-3,CC(C)OC(=O)NC1=CC(=CC=C1)Cl
+Chlorpyrifos,Chlorpyrifos  (F),2921-88-2,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl
+Chlorpyrifos-methyl,Chlorpyrifos-methyl  (R)(F),5598-13-0,COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl
+Chlorsulfuron,Chlorsulfuron,64902-72-3,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2Cl
+Chlorthal-dimethyl,Chlorthal-dimethyl,1861-32-1,COC(=O)C1=C(C(=C(C(=C1Cl)Cl)C(=O)OC)Cl)Cl
+Chlorthiamid,Chlorthiamid,1918-13-4,C1=CC(=C(C(=C1)Cl)C(=S)N)Cl
+Chlozolinate,Chlozolinate  (F),84332-86-5,CCOC(=O)C1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C
+Chromafenozide,Chromafenozide,143807-66-3,CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C3=C(C=C2)OCCC3)C)C
+Cinidon-ethyl,Cinidon-ethyl (sum of cinidon ethyl and its E-isomer),,CCOC(=O)/C(=C/C1=C(C=CC(=C1)N2C(=O)C3=C(C2=O)CCCC3)Cl)/Cl
+Clayed charcoal,Clayed charcoal,No CAS allocated,
+Clethodim,Clethodim (sum of Sethoxydim and Clethodim including degradation products calculated as Sethoxydim),99129-21-2,CCC(=NOC/C=C/Cl)C1=C(CC(CC1=O)CC(C)SCC)O
+"Clodinafop and its S-isomers and their salts, expressed as clodinafop","Clodinafop and its S-isomers and their salts, expressed as clodinafop  (F)",,
+Clofentezine,Clofentezine  (R),74115-24-5,C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=CC=CC=C3Cl)Cl
+Clomazone,Clomazone,81777-89-1,CC1(CON(C1=O)CC2=CC=CC=C2Cl)C
+Clonostachys rosea strain J1446,Clonostachys rosea strain J1446 (formerly Gliocladium catenulatum strain J1446),,
+Clopyralid,Clopyralid,1702-17-6,C1=CC(=NC(=C1Cl)C(=O)O)Cl
+Clothianidin,Clothianidin,210880-92-5,CN/C(=N\[N+](=O)[O-])/NCC1=CN=C(S1)Cl
+Coniothyrium minitans Strain CON/M/91-08 (DSM 9660),Coniothyrium minitans strain CON/M/91-08 (DSM 9660),No CAS allocated,
+Copper compounds,Copper compounds (Copper),No unique CAS,
+Coumaphos,Coumaphos,56-72-4,CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(=C(C(=O)O2)Cl)C
+Cow Milk,Cow Milk,No CAS allocated,
+Cyanamide including salts expressed as cyanamide,Cyanamide including salts expressed as cyanamide,,
+Cyantraniliprole,Cyantraniliprole,736994-63-1,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
+Cyazofamid,Cyazofamid,120116-88-3,CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl
+Cyclanilide,Cyclanilide  (F),113136-77-9,C1CC1(C(=O)NC2=C(C=C(C=C2)Cl)Cl)C(=O)O
+Cyclaniliprole,Cyclaniliprole,1031756-98-5,CC(C1CC1)NC(=O)C2=C(C(=CC(=C2)Cl)Br)NC(=O)C3=CC(=NN3C4=C(C=CC=N4)Cl)Br
+"Cycloxydim including degradation and reaction products which can be determined as 3-(3-thianyl)glutaric acid S-dioxide (BH 517-TGSO2) and/or 3-hydroxy-3-(3-thianyl)glutaric acid S-dioxide (BH 517-5-OH-TGSO2) or derivatives thereof, calculated in total as cycloxydim","Cycloxydim including degradation and reaction products which can be determined as 3-(3-thianyl)glutaric acid S-dioxide (BH 517-TGSO2) and/or 3-hydroxy-3-(3-thianyl)glutaric acid S-dioxide (BH 517-5-OH-TGSO2) or derivatives thereof, calculated in total as cycloxydim",,
+Cydia pomonella Granulovirus (CpGV),Cydia pomonella Granulovirus (CpGV),No CAS allocated,
+"Cyflufenamid (sum of cyflufenamid (Z-isomer) and its E-isomer, expressed as cyflufenamid)","Cyflufenamid (sum of cyflufenamid (Z-isomer) and its E-isomer, expressed as cyflufenamid) (R)(A)",,
+Cyflumetofen,Cyflumetofen (sum of isomers),400882-07-7,CC(C)(C)C1=CC=C(C=C1)C(C#N)(C(=O)C2=CC=CC=C2C(F)(F)F)C(=O)OCCOC
+Cyfluthrin (cyfluthrin including other mixtures of constituent isomers (sum of isomers)),Cyfluthrin (cyfluthrin including other mixtures of constituent isomers (sum of isomers)) (F),,
+Cyhalofop-butyl,Cyhalofop-butyl,122008-85-9,CCCCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F
+Cymoxanil,Cymoxanil,57966-95-7,CCNC(=O)NC(=O)/C(=N/OC)/C#N
+Cypermethrin (cypermethrin including other mixtures of constituent isomers (sum of isomers)),Cypermethrin (cypermethrin including other mixtures of constituent isomers (sum of isomers)) (F),,
+Cyproconazole,Cyproconazole (F),94361-06-5,CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O
+Cyprodinil,Cyprodinil  (R)(F),121552-61-2,CC1=CC(=NC(=N1)NC2=CC=CC=C2)C3CC3
+Cyromazine,Cyromazine,66215-27-8,C1CC1NC2=NC(=NC(=N2)N)N
+"DDT (sum of p,p´-DDT, o,p´-DDT, p-p´-DDE and p,p´-TDE (DDD) expressed as DDT)","DDT (sum of p,p´-DDT, o,p´-DDT, p-p´-DDE and p,p´-TDE (DDD) expressed as DDT) (F)",,
+DNOC,DNOC,534-52-1,CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-]
+Dalapon,Dalapon,75-99-0,CC(C(=O)O)(Cl)Cl
+"Daminozide (sum of daminozide and 1,1-dimethyl-hydrazine (UDHM), expressed as daminozide)","Daminozide (sum of daminozide and 1,1-dimethyl-hydrazine (UDHM), expressed as daminozide)",,
+Deltamethrin,Deltamethrin (cis-deltamethrin) (F),52918-63-5,CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C
+Denatonium benzoate,"Denatonium benzoate (sum of denatonium and its salts, expressed as denatonium benzoate)",,CC[N+](CC)(CC1=CC=CC=C1)CC(=O)NC2=C(C=CC=C2C)C.C1=CC=C(C=C1)C(=O)[O-]
+Desmedipham,Desmedipham,13684-56-5,CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2
+Di-allate,Di-allate (sum of isomers) (F),2303-16-4,CC(C)N(C(C)C)C(=O)SC/C(=C/Cl)/Cl
+Diammonium phosphate,Diammonium phosphate,7783-28-0,[NH4+].[NH4+].OP(=O)([O-])[O-]
+Diazinon,Diazinon  (F),333-41-5,CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C
+Dicamba,Dicamba,1918-00-9,COC1=C(C=CC(=C1C(=O)O)Cl)Cl
+Dichlobenil,Dichlobenil,1194-65-6,C1=CC(=C(C(=C1)Cl)C#N)Cl
+"Dichlorprop (Sum of dichlorprop (including dichlorprop-P), its salts, esters and conjugates, expressed as dichlorprop)","Dichlorprop (Sum of dichlorprop (including dichlorprop-P), its salts, esters and conjugates, expressed as dichlorprop) (R)",,
+Dichlorvos,Dichlorvos,62-73-7,COP(=O)(OC)OC=C(Cl)Cl
+Dicloran,Dicloran,99-30-9,C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-]
+Dicofol,"Dicofol (sum of p, p´ and o,p´ isomers) (F)",115-32-2,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)(C(Cl)(Cl)Cl)O)Cl
+Didecyldimethylammonium chloride,"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-]
+Diethofencarb,Diethofencarb,87130-20-9,CCOC1=C(C=C(C=C1)NC(=O)OC(C)C)OCC
+Difenacoum,Difenacoum,56073-07-5,C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=CC=C6
+Difenoconazole,Difenoconazole,119446-68-3,CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl
+Diflubenzuron,Diflubenzuron  (R)(F),35367-38-5,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F
+Diflufenican,Diflufenican  (F),83164-33-4,C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F
+Difluoroacetic acid,Difluoroacetic acid (DFA),,C(C(=O)O)(F)F
+Dimethachlor,Dimethachlor,50563-36-5,CC1=C(C(=CC=C1)C)N(CCOC)C(=O)CCl
+Dimethenamid including other mixtures of constituent isomers including dimethenamid-P,Dimethenamid including other mixtures of constituent isomers including dimethenamid-P (sum of isomers),,
+Dimethipin,Dimethipin,55290-64-7,CC1=C(S(=O)(=O)CCS1(=O)=O)C
+Dimethoate,Dimethoate,60-51-5,CNC(=O)CSP(=S)(OC)OC
+Dimethomorph,Dimethomorph (sum of isomers),110488-70-5,COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC
+Dimoxystrobin,Dimoxystrobin  (R)(A),149961-52-4,CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2/C(=N\OC)/C(=O)NC
+Diniconazole,Diniconazole (sum of isomers),,CC(C)(C)C(/C(=C\C1=C(C=C(C=C1)Cl)Cl)/N2C=NC=N2)O
+"Dinocap (sum of dinocap isomers and their corresponding phenols expressed as dinocap) (Where only meptyldinocap or its corresponding phenol are detected but none of the other components constituting dinocap (including their corresponding phenols), the MRLs and residue definition of meptyldinocap are to be applied.)","Dinocap (sum of dinocap isomers and their corresponding phenols expressed as dinocap) (Where only meptyldinocap or its corresponding phenol are detected but none of the other components constituting dinocap (including their corresponding phenols), the MRLs and residue definition of meptyldinocap are to be applied.) (F)",,
+Dinoseb,"Dinoseb (sum of dinoseb, its salts, dinoseb-acetate and binapacryl, expressed as dinoseb)",,CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O
+Dinotefuran,Dinotefuran,165252-70-0,CN=C(NCC1CCOC1)N[N+](=O)[O-]
+Dinoterb,"Dinoterb (sum of dinoterb, its salts and esters, expressed as dinoterb)",1420-07-1,CC(C)(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O
+Dioxathion,Dioxathion (sum of isomers) (F),78-34-2,CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC
+Diphenylamine,Diphenylamine,122-39-4,C1=CC=C(C=C1)NC2=CC=CC=C2
+Diquat,Diquat,85-00-7,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31.[Br-].[Br-]
+Disulfoton,"Disulfoton (sum of disulfoton, disulfoton sulfoxide and disulfoton sulfone expressed as disulfoton) (F)",298-04-4,CCOP(=S)(OCC)SCCSCC
+Dithianon,Dithianon,3347-22-6,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N
+Dithiocarbamates,"Dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and ziram)",,
+Diuron,Diuron,330-54-1,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
+Dodemorph,Dodemorph,1593-77-7,CC1CN(CC(O1)C)C2CCCCCCCCCCC2
+Dodine,Dodine,2439-10-3,CCCCCCCCCCCCN=C(N)N.CC(=O)O
+EPTC,EPTC (ethyl dipropylthiocarbamate),,CCCN(CCC)C(=O)SCC
+Elemental Iron,Elemental iron,7439-89-6,[Fe]
+"Emamectin B1a and its salts, expressed as emamectin B1a","Emamectin B1a and its salts, expressed as emamectin B1a (free base) (R)(F)",,
+Endosulfan,Endosulfan (sum of alpha- and beta-isomers and endosulfan-sulphate expressed as endosulfan) (F),115-29-7,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+Endrin,Endrin  (F),72-20-8,C1[C@@H]2[C@@H]3[C@H]([C@H]1[C@H]4[C@@H]2O4)[C@@]5(C(=C([C@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl
+Epoxiconazole,Epoxiconazole  (F),133855-98-8,C1=CC=C(C(=C1)[C@@H]2[C@@](O2)(CN3C=NC=N3)C4=CC=C(C=C4)F)Cl
+Equisetum arvense L.,Equisetum arvense L.,No CAS allocated,
+Ethalfluralin,Ethalfluralin,55283-68-6,CCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Ethametsulfuron-methyl,Ethametsulfuron-methyl,97780-06-8,CCOC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)NC
+Ethephon,Ethephon,16672-87-0,C(CCl)P(=O)(O)O
+Ethion,Ethion,,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC
+Ethirimol,Ethirimol (R)(F)(A),23947-60-6,CCCCC1=C(N=C(NC1=O)NCC)C
+Ethofumesate,"Ethofumesate (Sum of ethofumesate, 2-keto–ethofumesate, open-ring-2-keto-ethofumesate and its conjugate, expressed as ethofumesate)",26225-79-6,CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C
+Ethoprophos,Ethoprophos,13194-48-4,CCCSP(=O)(OCC)SCCC
+Ethoxyquin,Ethoxyquin  (F),91-53-2,CCOC1=CC2=C(C=C1)NC(C=C2C)(C)C
+Ethoxysulfuron,Ethoxysulfuron,126801-58-9,CCOC1=CC=CC=C1OS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Ethylene,Ethylene  (++),74-85-1,C=C
+Ethylene oxide,Ethylene oxide (sum of ethylene oxide and 2-chloro-ethanol expressed as ethylene oxide) (F),75-21-8,C1CO1
+Etofenprox,Etofenprox  (F),80844-07-1,CCOC1=CC=C(C=C1)C(C)(C)COCC2=CC(=CC=C2)OC3=CC=CC=C3
+Etoxazole,Etoxazole,153233-91-1,CCOC1=C(C=CC(=C1)C(C)(C)C)C2COC(=N2)C3=C(C=CC=C3F)F
+Etridiazole,Etridiazole,2593-15-9,CCOC1=NC(=NS1)C(Cl)(Cl)Cl
+Extract from tea tree,Extract from Tea tree  (++),No CAS allocated,
+FEN 560,FEN 560  (also called fenugreek or fenugreek seed powder),,
+Famoxadone,Famoxadone  (F),131807-57-3,CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4
+Fat distillation residues,Fat distillation residues,No CAS allocated,
+Fatty acids / Lauric acid,Fatty acids / Lauric acid  (++)(+),,
+Fatty acids C7-C20,Fatty acids C7-C20  (++)(+),,
+Fatty acids:  Heptanoic acid,Fatty acids:  Heptanoic acid  (++)(+),,
+Fatty acids:  Octanoic acid,Fatty acids:  Octanoic acid  (++)(+),,
+Fatty acids:  fatty acid methyl ester,Fatty acids:  fatty acid methyl ester  (++)(+),,
+Fatty acids: Decanoic acid,Fatty acids: Decanoic acid  (++)(+),,
+Fatty acids: Oleic acid incl ethyloleate,Fatty acids: Oleic acid incl ethyloleate  (++)(+),,
+Fatty acids: Pelargonic acid,Fatty acids: Pelargonic acid  (++)(+),,
+Fatty alcohols/aliphatic alcohols,Fatty alcohols/aliphatic alcohols  (+),,
+Fenamidone,Fenamidone,161326-34-7,C[C@@]1(C(=O)N(C(=N1)SC)NC2=CC=CC=C2)C3=CC=CC=C3
+Fenamiphos,Fenamiphos (sum of fenamiphos and its sulphoxide and sulphone expressed as fenamiphos),,CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)SC)C
+Fenarimol,Fenarimol,60168-88-9,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl
+Fenazaquin,Fenazaquin (F),120928-09-8,CC(C)(C)C1=CC=C(C=C1)CCOC2=NC=NC3=CC=CC=C32
+Fenbuconazole,Fenbuconazole (sum of constituent enantiomers),114369-43-6,C1=CC=C(C=C1)C(CCC2=CC=C(C=C2)Cl)(CN3C=NC=N3)C#N
+Fenbutatin oxide,Fenbutatin oxide  (F),13356-08-6,CC(C)(C[Sn](CC(C)(C)C1=CC=CC=C1)(CC(C)(C)C2=CC=CC=C2)O[Sn](CC(C)(C)C3=CC=CC=C3)(CC(C)(C)C4=CC=CC=C4)CC(C)(C)C5=CC=CC=C5)C6=CC=CC=C6
+Fenchlorphos,Fenchlorphos (sum of fenchlorphos and fenchlorphos oxon expressed as fenchlorphos),299-84-3,COP(=S)(OC)OC1=CC(=C(C=C1Cl)Cl)Cl
+Fenhexamid,Fenhexamid  (F),126833-17-8,CC1(CCCCC1)C(=O)NC2=C(C(=C(C=C2)O)Cl)Cl
+Fenitrothion,Fenitrothion,122-14-5,CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-]
+Fenoxaprop-P,Fenoxaprop-P,,C[C@H](C(=O)O)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl
+Fenoxycarb,Fenoxycarb,72490-01-8,CCOC(=O)NCCOC1=CC=C(C=C1)OC2=CC=CC=C2
+Fenpicoxamid,Fenpicoxamid  (R)(F),,C[C@H]1[C@@H]([C@H](C(=O)OC[C@@H](C(=O)O1)NC(=O)C2=NC=CC(=C2OCOC(=O)C(C)C)OC)CC3=CC=CC=C3)OC(=O)C(C)C
+Fenpropathrin,Fenpropathrin,39515-41-8,CC1(C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C
+Fenpropidin,"Fenpropidin (sum of fenpropidin and its salts, expressed as fenpropidin) (R)(A)",67306-00-7,CC(CC1=CC=C(C=C1)C(C)(C)C)CN2CCCCC2
+Fenpropimorph,Fenpropimorph (sum of isomers) (R)(F),67306-03-0,CC1CN(CC(O1)C)CC(C)CC2=CC=C(C=C2)C(C)(C)C
+Fenpyrazamine,Fenpyrazamine  (F),473798-59-3,CC1=CC=CC=C1C2=C(N(N(C2=O)C(C)C)C(=O)SCC=C)N
+Fenpyroximate,Fenpyroximate  (R)(F)(A),134098-61-6,CC1=NN(C(=C1/C=N/OCC2=CC=C(C=C2)C(=O)OC(C)(C)C)OC3=CC=CC=C3)C
+Fenthion,"Fenthion (fenthion and its oxigen analogue, their sulfoxides and sulfone expressed as parent) (F)",55-38-9,CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC
+Fentin,"Fentin (fentin including its salts, expressed as triphenyltin cation) (F)",,C1=CC=C(C=C1)[Sn+](C2=CC=CC=C2)C3=CC=CC=C3
+"Fenvalerate (any ratio of constituent isomers (RR, SS, RS & SR) including esfenvalerate)","Fenvalerate (any ratio of constituent isomers (RR, SS, RS & SR) including esfenvalerate) (R)(F)",,
+Ferric phosphate (Iron (III) phosphate),Ferric phosphate (Iron (III) phosphate),,
+Ferric pyrophosphate,Ferric pyrophosphate,10058-44-3,[O-]P(=O)([O-])OP(=O)([O-])[O-].[O-]P(=O)([O-])OP(=O)([O-])[O-].[O-]P(=O)([O-])OP(=O)([O-])[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
+Ferric sulphate (Iron (III) sulphate),Ferric sulphate (Iron (III) sulphate) (++),,
+Ferrous sulphate (Iron (II) sulphate),Ferrous sulphate (Iron (II) sulphate) (++)(+),,
+Fipronil (sum fipronil + sulfone metabolite (MB46136) expressed as fipronil),Fipronil (sum fipronil + sulfone metabolite (MB46136) expressed as fipronil) (F),,
+Flazasulfuron,Flazasulfuron,104040-78-0,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC
+Flonicamid,"Flonicamid (sum of flonicamid, TFNA and TFNG expressed as flonicamid) (R)",,C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N
+Florasulam,Florasulam,145701-23-1,COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F
+Florpyrauxifen-benzyl,Florpyrauxifen-benzyl,1390661-72-9,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2F)N)Cl)C(=O)OCC3=CC=CC=C3)Cl
+Fluazifop-P,"Fluazifop-P (sum of all the constituent isomers of fluazifop, its esters and its conjugates, expressed as fluazifop)",83066-88-0,C[C@H](C(=O)O)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F
+Fluazinam,Fluazinam  (F),79622-59-6,C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
+Flubendiamide,Flubendiamide  (F),272451-65-7,CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)NC(C)(C)CS(=O)(=O)C
+Flucycloxuron,Flucycloxuron  (F),94050-52-9,C1CC1/C(=N\OCC2=CC=C(C=C2)NC(=O)NC(=O)C3=C(C=CC=C3F)F)/C4=CC=C(C=C4)Cl
+Flucythrinate (flucythrinate including other mixtures of constituent isomers (sum of isomers)),Flucythrinate (flucythrinate including other mixtures of constituent isomers (sum of isomers)) (F),,
+Fludioxonil,Fludioxonil  (R)(F),131341-86-1,C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N
+Flufenacet,Flufenacet (sum of all compounds containing the N fluorophenyl-N-isopropyl moiety expressed as flufenacet),,CC(C)N(C1=CC=C(C=C1)F)C(=O)COC2=NN=C(S2)C(F)(F)F
+Flufenoxuron,Flufenoxuron  (F),101463-69-8,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=C(C=C(C=C2)OC3=C(C=C(C=C3)C(F)(F)F)Cl)F)F
+Flufenzin,Flufenzin,,
+Flumequine,Flumequine,42835-25-6,CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O
+Flumetralin,Flumetralin  (F),62924-70-3,CCN(CC1=C(C=CC=C1Cl)F)C2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Flumioxazine,Flumioxazine,,C#CCN1C(=O)COC2=CC(=C(C=C21)N3C(=O)C4=C(C3=O)CCCC4)F
+Fluometuron,Fluometuron,2164-17-2,CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F
+Fluopicolide,Fluopicolide,239110-15-7,C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
+Fluopyram,Fluopyram  (R),658066-35-4,C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F
+Fluoride ion,Fluoride ion,,[F-]
+Fluoroglycofene,Fluoroglycofene,,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)OCC(=O)O
+Fluoxastrobin,Fluoxastrobin (sum of fluoxastrobin and its Z-isomer) (R),361377-29-9,CO/N=C(\C1=CC=CC=C1OC2=C(C(=NC=N2)OC3=CC=CC=C3Cl)F)/C4=NOCCO4
+Flupyradifurone,Flupyradifurone,951659-40-8,C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
+Flupyrsulfuron-methyl,Flupyrsulfuron-methyl,,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)OC)OC
+Fluquinconazole,Fluquinconazole  (F),136426-54-5,C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl
+Flurochloridone,Flurochloridone (sum of cis- and trans- isomers) (F),61213-25-0,C1C(C(C(=O)N1C2=CC=CC(=C2)C(F)(F)F)Cl)CCl
+Fluroxypyr,"Fluroxypyr (sum of fluroxypyr, its salts, its esters, and its conjugates, expressed as fluroxypyr) (R)(A)",69377-81-7,C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F
+Flurprimidole,Flurprimidole,,
+Flurtamone,Flurtamone,96525-23-4,CNC1=C(C(=O)C(O1)C2=CC=CC=C2)C3=CC(=CC=C3)C(F)(F)F
+Flusilazole,Flusilazole  (R)(F),85509-19-9,C[Si](CN1C=NC=N1)(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
+Flutianil,Flutianil,958647-10-4,COC1=CC=CC=C1N\2CCS/C2=C(/C#N)\SC3=C(C=CC(=C3)C(F)(F)F)F
+Flutolanil,Flutolanil  (R),66332-96-5,CC(C)OC1=CC=CC(=C1)NC(=O)C2=CC=CC=C2C(F)(F)F
+Flutriafol,Flutriafol,76674-21-0,C1=CC=C(C(=C1)C(CN2C=NC=N2)(C3=CC=C(C=C3)F)O)F
+Fluvalinate (sum of isomers) resulting from the use of tau-fluvalinate,Fluvalinate (sum of isomers) resulting from the use of tau-fluvalinate (F),,
+Fluxapyroxad,Fluxapyroxad (F),907204-31-3,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F
+Folic acid,Folic acid  (+),59-30-3,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+Folpet,"Folpet (sum of folpet and phtalimide, expressed as folpet) (R)",133-07-3,C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
+Fomesafen,Fomesafen,72178-02-0,CS(=O)(=O)NC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+Foramsulfuron,Foramsulfuron,173159-57-4,CN(C)C(=O)C1=C(C=C(C=C1)NC=O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Forchlorfenuron,Forchlorfenuron,68157-60-8,C1=CC=C(C=C1)NC(=O)NC2=CC(=NC=C2)Cl
+Formetanate: Sum of formetanate and its salts expressed as formetanate,Formetanate: Sum of formetanate and its salts expressed as formetanate (hydrochloride),,
+Formothion,Formothion,2540-82-1,CN(C=O)C(=O)CSP(=S)(OC)OC
+Fosetyl,Fosetyl,15845-66-6,CCO[P+](=O)O
+Fosthiazate,Fosthiazate,98886-44-3,CCC(C)SP(=O)(N1CCSC1=O)OCC
+Fructose,Fructose,57-48-7,C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+Fuberidazole,Fuberidazole,878-19-1,C1=CC=C2C(=C1)NC(=N2)C3=CC=CO3
+Furfural,Furfural,98-01-1,C1=COC(=C1)C=O
+Garlic extract,Garlic extract  (++),No CAS allocated,
+Geraniol,Geraniol  (++)(+),106-24-1,CC(=CCC/C(=C/CO)/C)C
+Gibberellic acid,Gibberellic acid  (++),77-06-5,C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O
+Gibberellin,Gibberellin  (++),,CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O
+Gliocladium catenulatum strain J1446,Gliocladium catenulatum strain J1446  (++),,
+"Glufosinate (sum of glufosinate isomers, its salts and its metabolites 3-[hydroxy(methyl)phosphinoyl]propionic acid (MPP) and N-acetyl-glufosinate (NAG), expressed as glufosinate)","Glufosinate (sum of glufosinate isomers, its salts and its metabolites 3-[hydroxy(methyl)phosphinoyl]propionic acid (MPP) and N-acetyl-glufosinate (NAG), expressed as glufosinate)",,
+Glyphosate,Glyphosate,1071-83-6,C(C(=O)O)NCP(=O)(O)O
+Guazatine,"Guazatine (guazatine acetate, sum of components)",13516-27-3,C(CCCCN=C(N)N)CCCNCCCCCCCCN=C(N)N
+"Halauxifen-methyl (sum of halauxifen-methyl and X11393729 (halauxifen), expressed as halauxifen-methyl)","Halauxifen-methyl (sum of halauxifen-methyl and X11393729 (halauxifen), expressed as halauxifen-methyl)",,
+Halosulfuron methyl,Halosulfuron methyl,,CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+"Haloxyfop (Sum of haloxyfop, its esters, salts and conjugates expressed as haloxyfop (sum of the R- and S- isomers at any ratio))","Haloxyfop (Sum of haloxyfop, its esters, salts and conjugates expressed as haloxyfop (sum of the R- and S- isomers at any ratio)) (R)(F)",,
+Helicoverpa armigera nucleopolyhedrovirus,Helicoverpa armigera nucleopolyhedrovirus,,
+Heptachlor,Heptachlor (sum of heptachlor and heptachlor epoxide expressed as heptachlor) (F),76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl
+Heptamaloxyloglucan,Heptamaloxyloglucan,870721-81-6,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3C(C(COC3OCC4C(C(C(C(O4)OC(C(CO)O)C(C(CO)O)O)O)O)OC5C(C(C(C(O5)COC6C(C(C(CO6)O)O)O)O)O)O)O)O)CO)O)O)O)O)O
+Hexachlorobenzene,Hexachlorobenzene  (F),118-74-1,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl
+"Hexachlorocyclohexane (HCH), alpha-isomer","Hexachlorocyclohexane (HCH), alpha-isomer  (F)",,
+"Hexachlorocyclohexane (HCH), beta-isomer","Hexachlorocyclohexane (HCH), beta-isomer  (F)",,
+Hexaconazole,Hexaconazole,79983-71-4,CCCCC(CN1C=NC=N1)(C2=C(C=C(C=C2)Cl)Cl)O
+Hexythiazox,Hexythiazox (any ratio of constituent isomers) (F),78587-05-0,C[C@H]1[C@@H](SC(=O)N1C(=O)NC2CCCCC2)C3=CC=C(C=C3)Cl
+Hydrogen cyanide,Hydrogen cyanide (cyanides expressed as hydrogen cyanide),,C#N
+Hydrogen peroxide,Hydrogen peroxide,7722-84-1,OO
+Hydrolysed proteins,Hydrolysed proteins,No CAS allocated,
+Hymexazol,Hymexazol,10004-44-1,CC1=CC(=O)NO1
+Imazalil,Imazalil (any ratio of constituent isomers) (R),,C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl
+Imazamox,"Imazamox (Sum of imazamox and its salts, expressed as imazamox)",114311-32-9,CC(C)C1(C(=O)NC(=N1)C2=C(C=C(C=N2)COC)C(=O)O)C
+Imazapic,Imazapic,104098-48-8,CC1=CC(=C(N=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)O
+Imazapyr,Imazapyr,81334-34-1,CC(C)C1(C(=O)NC(=N1)C2=C(C=CC=N2)C(=O)O)C
+Imazaquin,Imazaquin,81335-37-7,CC(C)C1(C(=O)NC(=N1)C2=NC3=CC=CC=C3C=C2C(=O)O)C
+Imazosulfuron,Imazosulfuron,122548-33-8,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC
+Imidacloprid,Imidacloprid,138261-41-3,C1CN(/C(=N/[N+](=O)[O-])/N1)CC2=CN=C(C=C2)Cl
+Indolylacetic acid,Indolylacetic acid,,C1=CC=C2C(=C1)C(=CN2)CC(=O)O
+Indolylbutyric acid,Indolylbutyric acid,133-32-4,C1=CC=C2C(=C1)C(=CN2)CCCC(=O)O
+Indoxacarb,Indoxacarb (sum of indoxacarb and its R enantiomer) (F),173584-44-6,COC(=O)[C@]12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl
+Iodosulfuron-methyl,"Iodosulfuron-methyl (sum of iodosulfuron-methyl and its salts, expressed as iodosulfuron-methyl)",,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)I)C(=O)OC
+Ioxynil,"Ioxynil (sum of ioxynil and its salts, expressed as ioxynil)",1689-83-4,C1=C(C=C(C(=C1I)O)I)C#N
+Ipconazole,Ipconazole (sum of constituent isomers) (F),125225-28-7,CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl
+Iprodione,Iprodione  (R),36734-19-7,CC(C)NC(=O)N1CC(=O)N(C1=O)C2=CC(=CC(=C2)Cl)Cl
+Iprovalicarb,Iprovalicarb,140923-17-7,CC1=CC=C(C=C1)C(C)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C
+Isaria fumosorosea Apopka strain 97,Isaria fumosorosea Apopka strain 97 (formely Paecilomyces fumosoroseus),,
+Isofetamid,Isofetamid,875915-78-9,CC1=C(SC=C1)C(=O)NC(C)(C)C(=O)C2=C(C=C(C=C2)OC(C)C)C
+Isoprothiolane,Isoprothiolane,50512-35-1,CC(C)OC(=O)C(=C1SCCS1)C(=O)OC(C)C
+Isoproturon,Isoproturon,34123-59-6,CC(C)C1=CC=C(C=C1)NC(=O)N(C)C
+Isopyrazam,Isopyrazam (F),881685-58-1,CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C
+Isoxaben,Isoxaben,82558-50-7,CCC(C)(CC)C1=NOC(=C1)NC(=O)C2=C(C=CC=C2OC)OC
+Isoxaflutole,"Isoxaflutole (sum of isoxaflutole and its diketonitrile-metabolite, expressed as isoxaflutole)",141112-29-0,CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3
+Kieselguhr,Kieselguhr  (aka diatomaceous earth) (++),,
+Kresoxim-methyl,Kresoxim-methyl  (R),143390-89-0,CC1=CC=CC=C1OCC2=CC=CC=C2/C(=N\OC)/C(=O)OC
+L-Ascorbic acid,L-ascorbic acid,50-81-7,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+L-cysteine,L-cysteine,see remark,C([C@@H](C(=O)O)N)S
+Lactic acid,Lactic acid  (+),50-21-5,CC(C(=O)O)O
+Lactofen,Lactofen,77501-63-4,CCOC(=O)C(C)OC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+lambda-Cyhalothrin,"Lambda-cyhalothrin (includes gamma-cyhalothrin) (sum of R,S and S,R isomers) (F)",91465-08-6,CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C
+Laminarin,Laminarin,9008-22-4,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)OC2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)OC3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O
+Lavandulyl senecioate,Lavandulyl senecioate,23960-07-8,CC(=CCC(COC(=O)C=C(C)C)C(=C)C)C
+Lecithins,Lecithins,,
+Lenacil,Lenacil,2164-08-1,C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
+Lime sulphur,Lime sulphur,,[S-]SSS[S-].[Ca+2]
+Limestone,Limestone  (++),1317-65-3,
+Lindane (Gamma-isomer of hexachlorocyclohexane (HCH)),Lindane (Gamma-isomer of hexachlorocyclohexane (HCH)) (F),,
+Linuron,Linuron,330-55-2,CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
+Lufenuron,Lufenuron (any ratio of constituent isomers) (F),103055-07-8,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F
+MCPA and MCPB,"MCPA and MCPB (MCPA, MCPB including their salts, esters and conjugates expressed as MCPA) (R)(F)",,
+Malathion,Malathion (sum of malathion and malaoxon expressed as malathion),121-75-5,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC
+Maleic hydrazide,Maleic hydrazide,123-33-1,C1=CC(=O)NNC1=O
+Maltodextrin,Maltodextrin,9050-36-6,
+Mandestrobin,Mandestrobin,173662-97-0,CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2C(C(=O)NC)OC
+Mandipropamid,Mandipropamid (any ratio of constituent isomers),374726-62-2,COC1=C(C=CC(=C1)CCNC(=O)C(C2=CC=C(C=C2)Cl)OCC#C)OCC#C
+Mecarbam,Mecarbam,2595-54-2,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC
+Mecoprop,Mecoprop (sum of mecoprop-p and mecoprop expressed as mecoprop),93-65-2,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O
+Mefentrifluconazole,Mefentrifluconazole,1417782-03-6,CC(CN1C=NC=N1)(C2=C(C=C(C=C2)OC3=CC=C(C=C3)Cl)C(F)(F)F)O
+Mepanipyrim,Mepanipyrim,110235-47-7,CC#CC1=NC(=NC(=C1)C)NC2=CC=CC=C2
+Mepiquat,"Mepiquat (sum of mepiquat and its salts, expressed as mepiquat chloride)",15302-91-7,C[N+]1(CCCCC1)C
+Mepronil,Mepronil,55814-41-0,CC1=CC=CC=C1C(=O)NC2=CC(=CC=C2)OC(C)C
+Meptyldinocap,"Meptyldinocap (sum of 2,4 DNOPC and 2,4 DNOP expressed as meptyldinocap)",6119-92-2,CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)C=CC
+Mercury compounds,Mercury compounds (sum of mercury compounds expressed as mercury),,
+Mesosulfuron-methyl,Mesosulfuron-methyl,,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)OC)OC
+Mesotrione,Mesotrione,104206-8,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-]
+Metaflumizone,Metaflumizone (sum of E- and Z- isomers),139968-49-3,C1=CC(=CC(=C1)C(F)(F)F)/C(=N/NC(=O)NC2=CC=C(C=C2)OC(F)(F)F)/CC3=CC=C(C=C3)C#N
+Metalaxyl and metalaxyl-M (metalaxyl including other mixtures of constituent isomers including metalaxyl-M (sum of isomers)),Metalaxyl and metalaxyl-M (metalaxyl including other mixtures of constituent isomers including metalaxyl-M (sum of isomers)) (R),,
+Metaldehyde,Metaldehyde,see remark,CC1OC(OC(OC(O1)C)C)C
+Metam,Metam (see methylisothiocyanate),,CNC(=S)S
+Metamitron,Metamitron,41394-05-2,CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
+Metarhizium brunneum strain Ma 43,Metarhizium brunneum strain Ma 43,,
+Metazachlor,"Metazachlor (Sum of metabolites 479M04, 479M08 and 479M16, expressed as metazachlor) (R)",67129-08-2,CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)CCl
+Metconazole,Metconazole (sum of isomers) (F),125116-23-6,CC1(CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl)C
+Methabenzthiazuron,Methabenzthiazuron,18691-97-9,CNC(=O)N(C)C1=NC2=CC=CC=C2S1
+Methacrifos,Methacrifos,30864-28-9,C/C(=C\OP(=S)(OC)OC)/C(=O)OC
+Methamidophos,Methamidophos,10265-92-6,COP(=O)(N)SC
+Methidathion,Methidathion,950-37-8,COC1=NN(C(=O)S1)CSP(=S)(OC)OC
+Methiocarb,"Methiocarb (sum of methiocarb and methiocarb sulfoxide and sulfone, expressed as methiocarb)",,CC1=CC(=CC(=C1SC)C)OC(=O)NC
+Methomyl,Methomyl,16752-77-5,CC(=NOC(=O)NC)SC
+Methoprene,Methoprene,40596-69-8,CC(C)OC(=O)/C=C(\C)/C=C/CC(C)CCCC(C)(C)OC
+Methoxychlor,Methoxychlor  (F),72-43-5,COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl
+Methoxyfenozide,Methoxyfenozide  (F),161050-58-4,CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C(=CC=C2)OC)C)C
+Methyl decanoate (CAS 110-42-9),Methyl decanoate (CAS 110-42-9),110-42-9,CCCCCCCCCC(=O)OC
+Methyl nonyl ketone,Methyl nonyl ketone (F),112-12-9,CCCCCCCCCC(=O)C
+Methyl octanoate (CAS 111-11-5),Methyl octanoate (CAS 111-11-5),111-11-5,CCCCCCCC(=O)OC
+Methylisothiocyanate,Methylisothiocyanate (resulting from the use of dazomet or metam),,CN=C=S
+Metolachlor and S-metolachlor (metolachlor including other mixtures of constituent isomers including S-metolachlor (sum of isomers)),Metolachlor and S-metolachlor (metolachlor including other mixtures of constituent isomers including S-metolachlor (sum of isomers)),,
+Metosulam,Metosulam,139528-85-1,CC1=C(C(=C(C=C1)Cl)NS(=O)(=O)C2=NN3C(=CC(=NC3=N2)OC)OC)Cl
+Metrafenone,Metrafenone  (F),220899-03-6,CC1=CC(=C(C(=C1C(=O)C2=C(C=CC(=C2C)Br)OC)OC)OC)OC
+Metribuzin,Metribuzin,21087-64-9,CC(C)(C)C1=NN=C(N(C1=O)N)SC
+Metschnikowia fructicola strain NRRL Y-27328,Metschnikowia fructicola strain NRRL Y-27328,No CAS allocated,
+Metsulfuron-methyl,Metsulfuron-methyl,74223-64-6,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Mevinphos,Mevinphos (sum of E- and Z-isomers),7786-34-7,CC(=CC(=O)OC)OP(=O)(OC)OC
+Milbemectin,"Milbemectin (sum of milbemycin A4 and milbemycin A3, expressed as milbemectin)",See note,C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\C)O[C@@H]1C
+Mild Pepino Mosaic Virus isolate VC1,Mild Pepino Mosaic Virus isolate VC1,,
+Mild Pepino Mosaic Virus isolate VX1,Mild Pepino Mosaic Virus isolate VX1,,
+Molinate,Molinate,2212-67-1,CCSC(=O)N1CCCCCC1
+Monocrotophos,Monocrotophos,6923-22-4,C/C(=C\C(=O)NC)/OP(=O)(OC)OC
+Monolinuron,Monolinuron,1746-81-2,CN(C(=O)NC1=CC=C(C=C1)Cl)OC
+Monuron,Monuron,150-68-5,CN(C)C(=O)NC1=CC=C(C=C1)Cl
+Myclobutanil,Myclobutanil  (sum of  constituent isomers) (R),88671-89-0,CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl
+Napropamide,Napropamide (sum  of isomers),15299-99-7,CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21
+Nicosulfuron,Nicosulfuron,111991-09-4,CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Nicotine,Nicotine,54-11-5,CN1CCC[C@H]1C2=CN=CC=C2
+Nitrofen,Nitrofen  (F),1836-75-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl
+Novaluron,Novaluron (sum of constituent isomers) (F),116714-46-6,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2)OC(C(OC(F)(F)F)F)(F)F)Cl)F
+Omethoate,Omethoate,1113-02-6,CNC(=O)CSP(=O)(OC)OC
+Onion oil,Onion oil,No CAS allocated,
+Orange oil,Orange oil  (++),No CAS allocated,
+Orthosulfamuron,Orthosulfamuron,213464-77-8,CN(C)C(=O)C1=CC=CC=C1NS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Oryzalin,Oryzalin  (F),19044-88-3,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)N)[N+](=O)[O-]
+Oxadiargyl,Oxadiargyl,39807-15-3,CC(C)(C)C1=NN(C(=O)O1)C2=CC(=C(C=C2Cl)Cl)OCC#C
+Oxadiazon,Oxadiazon,19666-30-9,CC(C)OC1=C(C=C(C(=C1)N2C(=O)OC(=N2)C(C)(C)C)Cl)Cl
+Oxadixyl,Oxadixyl,77732-09-3,CC1=C(C(=CC=C1)C)N(C(=O)COC)N2CCOC2=O
+Oxamyl,Oxamyl,23135-22-0,CNC(=O)ON=C(C(=O)N(C)C)SC
+Oxasulfuron,Oxasulfuron,144651-06-9,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC3COC3)C
+Oxathiapiprolin,Oxathiapiprolin,1003318-67-9,CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
+Oxycarboxin,Oxycarboxin,5259-88-1,CC1=C(S(=O)(=O)CCO1)C(=O)NC2=CC=CC=C2
+Oxydemeton-methyl,Oxydemeton-methyl (sum of oxydemeton-methyl and demeton-S-methylsulfone expressed as oxydemeton-methyl),301-12-2,CCS(=O)CCSP(=O)(OC)OC
+Oxyfluorfen,Oxyfluorfen (F),42874-03-3,CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+Paclobutrazol,Paclobutrazol (sum of constituent isomers),76738-62-0,CC(C)(C)[C@@H]([C@H](CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
+Paecilomyces fumosoroseus strain Fe 9901,Paecilomyces fumosoroseus strain FE 9901,No CAS allocated,
+Paraffin oil,Paraffin oil (CAS 64742-46-7),,
+Paraffin oil,Paraffin oil (CAS 64742-54-7),,
+Paraffin oil,Paraffin oil (CAS 72623-86-0),,
+Paraffin oil,Paraffin oil (CAS 8042-47-5),,
+Paraffin oil,Paraffin oil (CAS 97862-82-3),,
+Paraquat,Paraquat,4685-14-7,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C
+Parathion,Parathion  (F),56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-]
+Parathion-methyl,Parathion-methyl (sum of Parathion-methyl and paraoxon-methyl expressed as Parathion-methyl),298-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-]
+Pasteuria nishizawae Pn1,Pasteuria nishizawae Pn1,No CAS allocated,
+Penconazole,Penconazole (sum of constituent isomers) (F),66246-88-6,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl
+Pencycuron,"Pencycuron (sum of pencycuron and pencycuron-PB-amine, expressed as pencycuron) (R)(F)(A)",66063-05-6,C1CCC(C1)N(CC2=CC=C(C=C2)Cl)C(=O)NC3=CC=CC=C3
+Pendimethalin,Pendimethalin  (F),40487-42-1,CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
+Penflufen,Penflufen (sum of isomers) (F),494793-67-8,CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C
+Penoxsulam,Penoxsulam,219714-96-2,COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC
+Penthiopyrad,Penthiopyrad (F),183675-82-3,CC(C)CC(C)C1=C(C=CS1)NC(=O)C2=CN(N=C2C(F)(F)F)C
+"Pepino Mosaic Virus, CH2 strain, mild isolate Abp2","Pepino Mosaic Virus, CH2 strain, mild isolate Abp2",,
+"Pepino Mosaic Virus, EU strain, mild isolate Abp1","Pepino Mosaic Virus, EU strain, mild isolate Abp1",,
+Pepino mosaic virus strain CH2 isolate 1906,Pepino mosaic virus strain CH2 isolate 1906,No CAS allocated,
+Pepper,Pepper  (++),,
+Permethrin,Permethrin (sum of isomers) (F),52645-53-1,CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Pethoxamid,Pethoxamid,106700-29-2,CCOCCN(C(=O)CCl)C(=C(C)C)C1=CC=CC=C1
+Petroleum oils,Petroleum oils (CAS 92062-35-6),No CAS allocated,
+Phenmedipham,Phenmedipham,13684-63-4,CC1=CC(=CC=C1)NC(=O)OC2=CC=CC(=C2)NC(=O)OC
+Phenothrin (phenothrin including other mixtures of constituent isomers (sum of isomers)),Phenothrin (phenothrin including other mixtures of constituent isomers (sum of isomers)) (F),,
+Phenthoate,Phenthoate,2597-03-7,CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC
+Phlebiopsis gigantea,Phlebiopsis gigantea,,
+Phorate,"Phorate (sum of phorate, its oxygen analogue and their sulfones expressed as phorate)",298-02-2,CCOP(=S)(OCC)SCSCC
+Phosalone,Phosalone,2310-17-0,CCOP(=S)(OCC)SCN1C2=C(C=C(C=C2)Cl)OC1=O
+Phosmet,Phosmet,732-11-6,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O
+Phosphamidon,Phosphamidon,13171-21-6,CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl
+"Phosphane and phosphide salts (sum of phosphane and phosphane generators (relevant phosphide salts), determined and expressed as phosphane)","Phosphane and phosphide salts (sum of phosphane and phosphane generators (relevant phosphide salts), determined and expressed as phosphane)",,
+Phosphonic acid and its salts expressed as phosphonic acid,Phosphonic acid and its salts expressed as phosphonic acid (R),,
+Phoxim,Phoxim  (F),14816-18-3,CCOP(=S)(OCC)ON=C(C#N)C1=CC=CC=C1
+"Picloram, free and conjugated, expressed as picloram","Picloram, free and conjugated, expressed as picloram (R)",,
+Picolinafen,Picolinafen,137641-05-5,C1=CC(=CC(=C1)OC2=CC=CC(=N2)C(=O)NC3=CC=C(C=C3)F)C(F)(F)F
+Picoxystrobin,Picoxystrobin  (F),117428-22-5,CO/C=C(\C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)/C(=O)OC
+Pirimicarb,Pirimicarb  (R),23103-98-2,CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C
+Pirimiphos-methyl,Pirimiphos-methyl  (F),29232-93-7,CCN(CC)C1=NC(=CC(=N1)OP(=S)(OC)OC)C
+Plant oils / Citronella oil,Plant oils / Citronella oil,No CAS allocated,
+Plant oils / Citronellol,Plant oils / Citronellol  (++),,
+Plant oils / Clove oil Eugenol,Plant oils / Clove oil Eugenol  (++),,
+Plant oils / Rapeseed oil,Plant oils / Rapeseed oil  (++),,
+Plant oils / Spearmint oil,Plant oils / Spearmint oil  (++),,
+Potassium iodide,Potassium Iodide  (++),7681-11-0,[K+].[I-]
+Potassium thiocyanate,Potassium Thiocyanate,333-20-0,C(#N)[S-].[K+]
+Potassium hydrogen carbonate,Potassium hydrogen carbonate,298-14-6,C(=O)(O)[O-].[K+]
+Potassium permanganate,Potassium permanganate,7722-64-7,[O-][Mn](=O)(=O)=O.[K+]
+Potassium sorbate,Potassium sorbate,24634-61-5,C/C=C/C=C/C(=O)[O-].[K+]
+Potassium tri-iodide,Potassium tri-iodide,No CAS allocated,
+"Prochloraz (sum of prochloraz, BTS 44595 (M201-04) and BTS 44596 (M201-03), expressed as prochloraz)","Prochloraz (sum of prochloraz, BTS 44595 (M201-04) and BTS 44596 (M201-03), expressed as prochloraz) (F)",,
+Procymidone,Procymidone  (R),32809-16-8,CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C
+Profenofos,Profenofos  (F),41198-08-7,CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
+Profoxydim,Profoxydim,139001-49-3,CCCC(=NOCC(C)OC1=CC=C(C=C1)Cl)C2=C(CC(CC2=O)C3CCCSC3)O
+Prohexadione (prohexadione (acid) and its salts expressed as prohexadione-calcium),Prohexadione (prohexadione (acid) and its salts expressed as prohexadione-calcium),,
+"Propachlor: oxalinic derivate of propachlor, expressed as propachlor","Propachlor: oxalinic derivate of propachlor, expressed as propachlor",,
+Propamocarb,"Propamocarb (Sum of propamocarb and its salts, expressed as propamocarb) (R)",24579-73-5,CCCOC(=O)NCCCN(C)C
+Propanil,Propanil,709-98-8,CCC(=O)NC1=CC(=C(C=C1)Cl)Cl
+Propargite,Propargite  (F),2312-35-8,CC(C)(C)C1=CC=C(C=C1)OC2CCCCC2OS(=O)OCC#C
+Propham,Propham,122-42-9,CC(C)OC(=O)NC1=CC=CC=C1
+Propiconazole,Propiconazole (sum of isomers) (F),60207-90-1,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl
+Propineb,Propineb (expressed as propilendiamine),9016-72-2,CC(CNC(=S)S)NC(=S)S
+Propisochlor,Propisochlor,,CCC1=CC=CC(=C1N(COC(C)C)C(=O)CCl)C
+Propoxur,Propoxur,114-26-1,CC(C)OC1=CC=CC=C1OC(=O)NC
+Propoxycarbazone,"Propoxycarbazone (propoxycarbazone, its salts and 2-hydroxypropoxycarbazone expressed as propoxycarbazone) (A)",145026-81-9,CCCOC1=NN(C(=O)N1C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Propyzamide,Propyzamide (R)(F),23950-58-5,CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl
+Proquinazid,Proquinazid (R)(F),189278-12-4,CCCN1C(=O)C2=C(C=CC(=C2)I)N=C1OCCC
+Prosulfocarb,Prosulfocarb,52888-80-9,CCCN(CCC)C(=O)SCC1=CC=CC=C1
+Prosulfuron,Prosulfuron,94125-34-5,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2CCC(F)(F)F
+Prothioconazole: prothioconazole-desthio,Prothioconazole: prothioconazole-desthio (sum of isomers) (F),,
+Pseudomonas chlororaphis strain MA342,Pseudomonas chlororaphis strain MA342,No CAS allocated,
+Pseudomonas sp. Strain DSMZ 13134,Pseudomonas sp. Strain DSMZ 13134,No CAS allocated,
+Purpureocillium lilacinum PL11,Purpureocillium lilacinum PL11,,
+Purpureocillium lilacinum strain 251 (former Paecilomyces lilacinus strain 251),Purpureocillium lilacinum strain 251 (former Paecilomyces lilacinus strain 251),No CAS allocated,
+Pymetrozine,Pymetrozine  (R),123312-89-0,CC1=NNC(=O)N(C1)/N=C/C2=CN=CC=C2
+Pyraclostrobin,Pyraclostrobin  (F),175013-18-0,COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC
+Pyraflufen-ethyl,"Pyraflufen-ethyl (Sum of pyraflufen-ethyl and pyraflufen, expressed as pyraflufen-ethyl)",129630-19-9,CCOC(=O)COC1=C(C=C(C(=C1)C2=NN(C(=C2Cl)OC(F)F)C)F)Cl
+Pyrasulfotole,Pyrasulfotole,365400-11-9,CC1=C(C(=O)N(N1)C)C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(=O)(=O)C
+Pyrazophos,Pyrazophos  (F),13457-18-6,CCOC(=O)C1=CN2C(=CC(=N2)OP(=S)(OCC)OCC)N=C1C
+Pyrethrins,Pyrethrins,8003-34-7,CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C/C=C\C=C.CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\C)/C(=O)OC)C/C=C\C=C
+Pyridaben,Pyridaben  (F),96489-71-3,CC(C)(C)C1=CC=C(C=C1)CSC2=C(C(=O)N(N=C2)C(C)(C)C)Cl
+Pyridalyl,Pyridalyl,179101-81-6,C1=CC(=NC=C1C(F)(F)F)OCCCOC2=C(C=C(C=C2Cl)OCC=C(Cl)Cl)Cl
+"Pyridate (sum of pyridate, its hydrolysis product CL 9673 (6-chloro-4-hydroxy-3-phenylpyridazin) and hydrolysable conjugates of CL 9673 expressed as pyridate)","Pyridate (sum of pyridate, its hydrolysis product CL 9673 (6-chloro-4-hydroxy-3-phenylpyridazin) and hydrolysable conjugates of CL 9673 expressed as pyridate)",,
+Pyrimethanil,Pyrimethanil (R),53112-28-0,CC1=CC(=NC(=N1)NC2=CC=CC=C2)C
+Pyriofenone,Pyriofenone,688046-61-9,CC1=CC(=C(C(=C1C(=O)C2=C(C(=CN=C2OC)Cl)C)OC)OC)OC
+Pyriproxyfen,Pyriproxyfen  (F),95737-68-1,CC(COC1=CC=C(C=C1)OC2=CC=CC=C2)OC3=CC=CC=N3
+Pyroxsulam,Pyroxsulam,422556-08-9,COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC
+Pythium oligandrum strain M1,Pythium oligandrum strain M1,No CAS allocated,
+Quartz sand,Quartz sand,No CAS allocated,O=[Si]=O
+Quinalphos,Quinalphos  (F),13593-03-8,CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1
+Quinclorac,Quinclorac,84087-01-4,C1=CC(=C(C2=NC=C(C=C21)Cl)C(=O)O)Cl
+Quinmerac,Quinmerac (sum of quinmerac and its metabolites BH 518-2 and BH 518-4 expressed as quinmerac) (R),90717-03-6,CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1
+Quinoclamine,Quinoclamine,2797-51-5,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)N
+Quinoxyfen,Quinoxyfen  (F),124495-18-7,C1=CC(=CC=C1OC2=C3C(=CC(=CC3=NC=C2)Cl)Cl)F
+Quintozene,Quintozene (sum of quintozene and pentachloro-aniline expressed as quintozene) (F),82-68-8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[N+](=O)[O-]
+"Quizalofop (sum of quizalofop, its salts, its esters (including propaquizafop) and its conjugates, expressed as quizalofop (any ratio of constituent isomers))","Quizalofop (sum of quizalofop, its salts, its esters (including propaquizafop) and its conjugates, expressed as quizalofop (any ratio of constituent isomers))",,
+Repellants: Blood meal,Repellants: Blood meal,,
+Repellants: Fish oil,Repellants: Fish oil,,
+Repellants: Sheep fat,Repellants: Sheep fat,,
+Repellants: Tall oil,Repellants: Tall oil,,
+Rescalure,Rescalure,67601-06-3,C[C@@H](CC[C@@H](CCC=C)C(=C)C)CCOC(=O)C
+Resmethrin (resmethrin including other mixtures of consituent isomers (sum of isomers)),Resmethrin (resmethrin including other mixtures of consituent isomers (sum of isomers)) (F),,
+Rimsulfuron,Rimsulfuron,,CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Rotenone,Rotenone,83-79-4,CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC
+S-abscisic acid,S-abscisic acid,21293-29-8,CC1=CC(=O)CC([C@]1(/C=C/C(=C\C(=O)O)/C)O)(C)C
+Saccharomyces cerevisiae strain LAS02,Saccharomyces cerevisiae strain LAS02,No CAS allocated,
+Saflufenacil,"Saflufenacil (sum of saflufenacil, M800H11 and M800H35, expressed as saflufenacil) (R)",372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(=C(C=C1Cl)F)N2C(=O)C=C(N(C2=O)C)C(F)(F)F
+Salix spp. cortex,Salix spp. cortex,No CAS allocated,
+Seaweed extracts,Seaweed extracts  (++),,
+Sedaxane,Sedaxane (sum of isomers),874967-67-6,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
+Silthiofam,Silthiofam,175217-20-6,CC1=C(SC(=C1C(=O)NCC=C)[Si](C)(C)C)C
+Simazine,Simazine,122-34-9,CCNC1=NC(=NC(=N1)Cl)NCC
+Sintofen,Sintofen,,COCCOC1=CC=CC2=C1C(=O)C(=NN2C3=CC=C(C=C3)Cl)C(=O)O
+"Sodium 5-nitroguaiacolate, sodium o-nitrophenolate and sodium p-nitrophenolate","Sodium 5-nitroguaiacolate, sodium o-nitrophenolate and sodium p-nitrophenolate (Sum of sodium 5-nitroguaiacolate, sodium o-nitrophenolate and sodium p-nitrophenolate, expressed as sodium 5-nitroguaiacolate)",,
+Sodium aluminium silicate,Sodium aluminium silicate,12003-51-9,[O-][Si]([O-])([O-])[O-].[Na+].[Al+3]
+Sodium chloride,Sodium chloride,7647-14-5,[Na+].[Cl-]
+Sodium hydrogen carbonate,Sodium hydrogen carbonate,,C(=O)(O)[O-].[Na+]
+Sodium hypochlorite,Sodium hypochlorite,7681-52-9,[O-]Cl.[Na+]
+Spinetoram,Spinetoram (sum of spinetoram-J and spinetoram-L) (F)(A),See note,CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@@H]3[C@H](C2CC(=O)O1)CC[C@H]4[C@H]3CC(C4)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C
+Spinosad,"Spinosad (spinosad, sum of spinosyn A and spinosyn D) (F)",168316-95-8,CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C.CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C
+Spirodiclofen,Spirodiclofen  (F),148477-71-8,CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)C3=C(C=C(C=C3)Cl)Cl
+Spiromesifen,Spiromesifen,283594-90-1,CC1=CC(=C(C(=C1)C)C2=C(C3(CCCC3)OC2=O)OC(=O)CC(C)(C)C)C
+"Spirotetramat and spirotetramat-enol (sum of), expressed as spirotetramat","Spirotetramat and spirotetramat-enol (sum of), expressed as spirotetramat (R)",,
+Spiroxamine,Spiroxamine (sum of isomers) (R)(A),118134-30-8,CCCN(CC)CC1COC2(O1)CCC(CC2)C(C)(C)C
+Spodoptera exigua multicapsid nucleopolyhedrovirus (SeMNPV) isolate BV-0004,Spodoptera exigua multicapsid nucleopolyhedrovirus (SeMNPV) isolate BV-0004,,
+Spodoptera exigua nuclear polyhedrosis virus,Spodoptera exigua nuclear polyhedrosis virus,No CAS allocated,
+Spodoptera littoralis nucleopolyhedrovirus,Spodoptera littoralis nucleopolyhedrovirus,,
+Straight Chain Lepidopteran Pheromones,Straight Chain Lepidopteran Pheromones (SCLP),,
+Streptomyces K61,Streptomyces K61 (formerly S.griseoviridis),,
+Streptomycin,Streptomycin,57-92-1,C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O
+Sucrose,Sucrose,57-50-1,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O
+Sulcotrione,Sulcotrione  (R),99105-77-8,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl
+Sulfosulfuron,Sulfosulfuron,141776-32-1,CCS(=O)(=O)C1=C(N2C=CC=CC2=N1)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC
+Sulfoxaflor,Sulfoxaflor (sum of isomers),946578-00-3,CC(C1=CN=C(C=C1)C(F)(F)F)S(=NC#N)(=O)C
+Sulfuryl fluoride,Sulfuryl fluoride,2699-79-8,O=S(=O)(F)F
+Sulphur,Sulphur,No CAS allocated,S
+Sulphuric acid,Sulphuric acid,7664-93-9,OS(=O)(=O)O
+"Sum of M4 and M6 (both free and conjugated), expressed as pinoxaden","Sum of M4 and M6 (both free and conjugated), expressed as pinoxaden (R)(A)",,
+"Sum of diclofop-methyl, diclofop acid and its salts, expressed as diclofop-methyl","Sum of diclofop-methyl, diclofop acid and its salts, expressed as diclofop-methyl (sum of isomers)",,
+"Sum of metobromuron and 4-bromophenylurea, expressed as metobromuron","Sum of metobromuron and 4-bromophenylurea, expressed as metobromuron",,
+Sunflower oil,Sunflower oil,No CAS allocated,
+TEPP,TEPP,,CCOP(=O)(OCC)OP(=O)(OCC)OCC
+Talc E553B,Talc E553B,14807-96-6,[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+Tebuconazole,Tebuconazole  (R),107534-96-3,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O
+Tebufenozide,Tebufenozide  (F),112410-23-8,CCC1=CC=C(C=C1)C(=O)NN(C(=O)C2=CC(=CC(=C2)C)C)C(C)(C)C
+Tebufenpyrad,Tebufenpyrad  (F),119168-77-3,CCC1=NN(C(=C1Cl)C(=O)NCC2=CC=C(C=C2)C(C)(C)C)C
+Tecnazene,Tecnazene  (F),117-18-0,C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl
+Teflubenzuron,Teflubenzuron  (F),Teflubenzuron,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)F)Cl)F
+Tefluthrin (tefluthrin including other mixtures of constituent isomers (sum of isomers)),Tefluthrin (tefluthrin including other mixtures of constituent isomers (sum of isomers)) (F),,
+"Tembotrione (Sum of parent tembotrione (AE 0172747) and its metabolite M5 (4,6-dihydroxy tembotrione), expressed as tembotrione)","Tembotrione (Sum of parent tembotrione (AE 0172747) and its metabolite M5 (4,6-dihydroxy tembotrione), expressed as tembotrione) (R)",,
+"Tepraloxydim (sum of tepraloxydim and its metabolites that can be hydrolysed either to the moiety 3-(tetrahydro-pyran-4-yl)-glutaric acid or to the moiety 3-hydroxy-(tetrahydro-pyran-4-yl)-glutaric acid, expressed as tepraloxydim)","Tepraloxydim (sum of tepraloxydim and its metabolites that can be hydrolysed either to the moiety 3-(tetrahydro-pyran-4-yl)-glutaric acid or to the moiety 3-hydroxy-(tetrahydro-pyran-4-yl)-glutaric acid, expressed as tepraloxydim)",,
+Terbufos,Terbufos,13071-79-9,CCOP(=S)(OCC)SCSC(C)(C)C
+Terbuthylazine,Terbuthylazine (R)(F),5915-41-3,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C
+Terpenoid blend QRD 460,Terpenoid blend QRD 460,,
+Tetraconazole,Tetraconazole (sum of constituent isomers) (F),112281-77-3,C1=CC(=C(C=C1Cl)Cl)C(CN2C=NC=N2)COC(C(F)F)(F)F
+Tetradifon,Tetradifon,116-29-0,C1=CC(=CC=C1S(=O)(=O)C2=CC(=C(C=C2Cl)Cl)Cl)Cl
+Thiabendazole,Thiabendazole (R),148-79-8,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+Thiacloprid,Thiacloprid,111988-49-9,C1CSC(=NC#N)N1CC2=CN=C(C=C2)Cl
+Thiamethoxam,Thiamethoxam,153719-23-4,CN\1COCN(/C1=N/[N+](=O)[O-])CC2=CN=C(S2)Cl
+Thiencarbazone-methyl,Thiencarbazone-methyl,317815-83-1,CC1=C(C(=CS1)C(=O)OC)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C
+Thifensulfuron-methyl,Thifensulfuron-methyl,79277-27-3,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)OC
+Thiobencarb,Thiobencarb (4-chlorobenzyl methyl sulfone) (A),28249-77-6,CCN(CC)C(=O)SCC1=CC=C(C=C1)Cl
+Thiodicarb,Thiodicarb,59669-26-0,CC(=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC)SC
+Thiophanate-methyl,Thiophanate-methyl  (R),23564-05-8,COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC
+Thiram,Thiram (expressed as thiram),137-26-8,CN(C)C(=S)SSC(=S)N(C)C
+Thymol,Thymol  (++)(+),89-83-8,CC1=CC(=C(C=C1)C(C)C)O
+Tolclofos-methyl,Tolclofos-methyl  (F),57018-04-9,CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl
+Tolylfluanid,Tolylfluanid (Sum of tolylfluanid and dimethylaminosulfotoluidide expressed as tolylfluanid) (R)(F),731-27-1,CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
+Topramezone,Topramezone (BAS 670H),210631-68-8,CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C
+Tralkoxydim,Tralkoxydim (sum of the constituent isomers of tralkoxydim),87820-88-0,CC/C(=N\OCC)/C1=C(CC(CC1=O)C2=C(C=C(C=C2C)C)C)O
+Tri-allate,Tri-allate,2303-17-5,CC(C)N(C(C)C)C(=O)SCC(=C(Cl)Cl)Cl
+Triadimefon,Triadimefon  (F),43121-43-3,CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl
+Triadimenol,Triadimenol (any ratio of constituent isomers),55219-65-3,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O
+Triasulfuron,Triasulfuron,82097-50-5,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2OCCCl
+Triazophos,Triazophos  (F),24017-47-8,CCOP(=S)(OCC)OC1=NN(C=N1)C2=CC=CC=C2
+Triazoxide,Triazoxide,72459-58-6,C1=CC2=C(C=C1Cl)[N+](=NC(=N2)N3C=CN=C3)[O-]
+Tribenuron-methyl,Tribenuron-methyl,,CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Trichlorfon,Trichlorfon,52-68-6,COP(=O)(C(C(Cl)(Cl)Cl)O)OC
+Trichoderma afroharzianum (Formerly Trichoderma harzianum) strain T-22,Trichoderma afroharzianum (Formerly Trichoderma harzianum) strain T-22,,
+"Trichoderma asperellum (formerly T. harzianum) strains ICC012, T25 and TV1","Trichoderma asperellum (formerly T. harzianum) strains ICC012, T25 and TV1",,
+Trichoderma asperellum,Trichoderma asperellum (strain T34),,
+Trichoderma atroviride (formerly T. harzianum) strains IMI 206040 and T11,Trichoderma atroviride (formerly T. harzianum) strains IMI 206040 and T11,,
+Trichoderma atroviride strain AGR2,Trichoderma atroviride strain AGR2,,
+Trichoderma atroviride strain AT10,Trichoderma atroviride strain AT10,,
+Trichoderma atroviride strain I-1237,Trichoderma atroviride strain I-1237,No CAS allocated,
+Trichoderma atroviride strain SC1,Trichoderma atroviride strain SC1,No CAS allocated,
+Trichoderma gamsii (formerly T. viride) strain ICC080,Trichoderma gamsii (formerly T. viride) strain ICC080,No CAS allocated,
+Trichoderma polysporum strain IMI 206039,Trichoderma polysporum strain IMI 206039,No CAS allocated,
+Triclopyr,Triclopyr,55335-06-3,C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl
+Tricyclazole,Tricyclazole,41814-78-2,CC1=C2C(=CC=C1)SC3=NN=CN23
+Tridemorph,Tridemorph  (F),24602-86-6,CCCCCCCCCCCCCN1CC(OC(C1)C)C
+Trifloxystrobin,Trifloxystrobin (R)(F),141517-21-7,C/C(=N\OCC1=CC=CC=C1/C(=N\OC)/C(=O)OC)/C2=CC(=CC=C2)C(F)(F)F
+Triflumezopyrim,Triflumezopyrim,1263133-33-0,C1=CC2=[N+](C(=C(C(=O)N2C=C1)C3=CC(=CC=C3)C(F)(F)F)[O-])CC4=CN=CN=C4
+"Triflumizole: Triflumizole and metabolite FM-6-1(N-(4-chloro-2-trifluoromethylphenyl)-n-propoxyacetamidine), expressed as Triflumizole","Triflumizole: Triflumizole and metabolite FM-6-1(N-(4-chloro-2-trifluoromethylphenyl)-n-propoxyacetamidine), expressed as Triflumizole (R)(F)",,
+Triflumuron,Triflumuron  (F),64628-44-0,C1=CC=C(C(=C1)C(=O)NC(=O)NC2=CC=C(C=C2)OC(F)(F)F)Cl
+Trifluralin,Trifluralin,1582-09-8,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+"Triflusulfuron (6-(2,2,2-trifluoroethoxy)-1,3,5-triazine-2,4-diamine (IN-M7222))","Triflusulfuron (6-(2,2,2-trifluoroethoxy)-1,3,5-triazine-2,4-diamine (IN-M7222))",,
+Triforine,Triforine,26644-46-2,C1CN(CCN1C(C(Cl)(Cl)Cl)NC=O)C(C(Cl)(Cl)Cl)NC=O
+"Trimethyl-sulfonium cation, resulting from the use of glyphosate","Trimethyl-sulfonium cation, resulting from the use of glyphosate  (F)",,
+Trimethylamine hydrochloride,Trimethylamine hydrochloride  (++),593-81-7,CN(C)C.Cl
+"Trinexapac (sum of trinexapac (acid) and its salts, expressed as trinexapac)","Trinexapac (sum of trinexapac (acid) and its salts, expressed as trinexapac)",,
+Triticonazole,Triticonazole,131983-72-7,CC1(CC/C(=C\C2=CC=C(C=C2)Cl)/C1(CN3C=NC=N3)O)C
+Tritosulfuron,Tritosulfuron,142469-14-5,COC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(F)(F)F)C(F)(F)F
+Urea,Urea,57-13-6,C(=O)(N)N
+Urtica spp.,Urtica spp.,No CAS allocated,
+Valifenalate,Valifenalate (R)(A),,CC(C)[C@@H](C(=O)NC(CC(=O)OC)C1=CC=C(C=C1)Cl)NC(=O)OC(C)C
+Verticillium albo-atrum isolate WCS850,Verticillium albo-atrum isolate WCS850,,
+Vinclozolin,Vinclozolin,50471-44-8,CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C
+Vinegar,Vinegar,64-19-7,CC(=O)O
+Warfarin,Warfarin,,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+Whey,Whey,No CAS allocated,
+"Z,Z,Z,Z-7,13,16,19-docosatetraen-1-yl isobutyrate","Z,Z,Z,Z-7,13,16,19-docosatetraen-1-yl isobutyrate (F)",,CC/C=C\C/C=C\C/C=C\CCCC/C=C\CCCCCCOC(=O)C(C)C
+Z-13-hexadecen-11-yn-1-yl acetate,Z-13-hexadecen-11-yn-1-yl acetate (F),,CC/C=C\C#CCCCCCCCCCCOC(=O)C
+Ziram,Ziram,137-30-4,CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]
+Zoxamide,Zoxamide (sum of constituent isomers),156052-68-5,CCC(C)(C(=O)CCl)NC(=O)C1=CC(=C(C(=C1)Cl)C)Cl
+"Zucchini Yellow Mosaik Virus, weak strain","Zucchini Yellow Mosaik Virus, weak strain",,
+Mustard seeds powder,mustard seeds powder,No CAS allocated,

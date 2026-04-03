@@ -1,0 +1,27 @@
+[project]
+name = "pesticides_API"
+version = "0.1.0"
+description = "dududu"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"pandas",
+	"numpy",
+	"scipy",
+	"matplotlib",
+	"seaborn",
+	"jupyter",
+	"ipykernel",
+	"ipywidgets",	
+	"elabapi-python",
+	"openpyxl",
+	"requests",
+	"pubchempy",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["helmholtz_eos_net*"]
