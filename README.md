@@ -29,3 +29,7 @@ and select the uv environment.
 ### Classification Example
 
 basic classification example - have fun :)
+
+Every row a class:
+
+![](cluster_grid.png?raw=true)
