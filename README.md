@@ -24,3 +24,8 @@ uv run jupyter-lab
 code .
 ```
 and select the uv environment.
+
+
+### Classification Example
+
+basic classification example - have fun :)

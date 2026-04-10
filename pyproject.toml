@@ -17,6 +17,10 @@ dependencies = [
 	"openpyxl",
 	"requests",
 	"pubchempy",
+	"rdkit",
+	"scikit-learn",
+	"umap-learn",
+	"mordredcommunity",
 ]
 
 [build-system]
